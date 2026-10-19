@@ -13,3 +13,4 @@ __pycache__/
 .env
 data/vector_store/
 .ipynb_checkpoints/
+src/rag101/notebook/data/vector_store/
